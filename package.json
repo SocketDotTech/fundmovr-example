@@ -1,0 +1,23 @@
+{
+  "name": "fund-movr-example",
+  "version": "1.0.0",
+  "description": "example for using fund-movr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/movrnetwork/Fund-movr-example.git"
+  },
+  "keywords": [],
+  "author": "aniket965",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/movrnetwork/Fund-movr-example/issues"
+  },
+  "homepage": "https://github.com/movrnetwork/Fund-movr-example#readme",
+  "dependencies": {
+    "@movr/fund-movr-sdk": "0.0.1-beta.5"
+  }
+}
